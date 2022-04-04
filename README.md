@@ -5,13 +5,13 @@
 [![Count](https://komarev.com/ghpvc/?username=ikadekmahagangga&style=flat-square&color=red)](https://github.com/ikadekmahagangga)
 
 
-<sub> <strong>social media : </strong> <br>
+# social media :
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ikadekmahaganggaE)
 [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ikadekmahagangga/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-/)
 [<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/-)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ikadekmahaganggaE/)
-</sub>
+
 
 Frequently used
 
