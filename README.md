@@ -13,8 +13,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ikadekmahaganggaE/)
 
 
-Frequently used
-
+# Frequently used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikadekmahagangga&layout=compact&theme=dracula)](https://github.com/ikadekmahagangga)
 
