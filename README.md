@@ -2,7 +2,7 @@
 <p align='center'>Hi There, I'm MAHA </p>
 
 [![KryPtoN github stats](https://github-readme-stats.vercel.app/api?username=ikadekmahagangga&show_icons=true&theme=dracula)](https://github.com/ikadekmahagangga)
-[![Count](https://komarev.com/ghpvc/?username=ikadekmahagangga&style=flat-square&color=red)](https://github.com/kry9ton)
+[![Count](https://komarev.com/ghpvc/?username=ikadekmahagangga&style=flat-square&color=red)](https://github.com/ikadekmahagangga)
 
 
 <sub> <strong>social media : </strong> <br>
