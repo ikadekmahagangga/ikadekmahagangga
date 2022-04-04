@@ -11,6 +11,10 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ikadekmahaganggaE/)
 </sub>
 
+Frequently used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kry9ton&layout=compact&theme=dracula)](https://github.com/kry9ton)
+
+
  # 🚀 My Toolkit:
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
