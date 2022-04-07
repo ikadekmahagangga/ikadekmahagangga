@@ -1,5 +1,5 @@
-<h1 align='center'>Hello, this is a little about me</h1>
-<p align='center'>Hi There, I'm MAHA </p>
+<h1 align='center'>perkenakan nama saya maha saya adalah mahasiswa yang masih berbelajar dan masih awam dalam programer</h1>
+<p align='center'>IKADEK MAHA GANGGA</p>
 
 [![KryPtoN github stats](https://github-readme-stats.vercel.app/api?username=ikadekmahagangga&show_icons=true&theme=dracula)](https://github.com/ikadekmahagangga)
 [![Count](https://komarev.com/ghpvc/?username=ikadekmahagangga&style=flat-square&color=red)](https://github.com/ikadekmahagangga)
