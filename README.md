@@ -1,4 +1,4 @@
-<h1 align='center'>perkenakan nama saya maha saya adalah mahasiswa yang masih berbelajar dan masih awam dalam programer</h1>
+
 <p align='center'>IKADEK MAHA GANGGA</p>
 
 [![KryPtoN github stats](https://github-readme-stats.vercel.app/api?username=ikadekmahagangga&show_icons=true&theme=dracula)](https://github.com/ikadekmahagangga)
