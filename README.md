@@ -12,7 +12,7 @@
 
 # Frequently used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikadekmahagangga&layout=compact&theme=dracula)](https://github.com/ikadekmahagangga)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikadekmahagangga&layout=compact&theme=moon)](https://github.com/ikadekmahagangga)
 
 
  # 🚀 My Toolkit:
