@@ -1,4 +1,4 @@
-[![KryPtoN github stats](https://github-readme-stats.vercel.app/api?username=ikadekmahagangga&show_icons=true&theme=dracula)](https://github.com/ikadekmahagangga)
+[![ikadekmahagangga github stats](https://github-readme-stats.vercel.app/api?username=ikadekmahagangga&show_icons=true&theme=moon)](https://github.com/ikadekmahagangga)
 [![Count](https://komarev.com/ghpvc/?username=ikadekmahagangga&style=flat-square&color=red)](https://github.com/ikadekmahagangga)
 
 
