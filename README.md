@@ -28,4 +28,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317uzg5etpdzy2kday5v3te3inki&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317uzg5etpdzy2kday5v3te3inki&redirect=true)
 
 
-<td>https://freecodecamp.org/certification/fcc628b3a5d-b605-452a-9e71-b5a586482109/scientific-computing-with-python-v7</td>
+# certificate
+<a href="https://freecodecamp.org/certification/fcc628b3a5d-b605-452a-9e71-b5a586482109/scientific-computing-with-python-v7" title="certificate" target="_blank"> <img src="https://img.icons8.com/color/48/000000/certificate.png"/> </a>
+
