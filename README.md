@@ -1,6 +1,4 @@
-<img 
-  alt='DOFC' src='https://coolwallpapers.me/th700/6071734-anime-girl-anime-artist-artwork-digital-art-hd-4k.jpg 
-/>
+
 [![ikadekmahagangga github stats](https://github-readme-stats.vercel.app/api?username=ikadekmahagangga&show_icons=true&theme=moon)](https://github.com/ikadekmahagangga)
 [![Count](https://komarev.com/ghpvc/?username=ikadekmahagangga&style=flat-square&color=red)](https://github.com/ikadekmahagangga)
 
