@@ -25,7 +25,7 @@
     <a href="https://www.microsoft.com/en-gb/windows/get-windows-10" title="Windows" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/windows-10.png"/> </a>    
     <a href="https://jupyter.org/" title="Jupyter" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/> </a>
     <a href="https://www.termius.com/" title="Termius" target="_blank"> <img src="https://img.icons8.com/windows/32/000000/termius.png"/> </a> 
-/p>
+</p
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317uzg5etpdzy2kday5v3te3inki&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317uzg5etpdzy2kday5v3te3inki&redirect=true)
 
 
