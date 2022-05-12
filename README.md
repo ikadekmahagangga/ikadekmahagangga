@@ -2,6 +2,7 @@
 [![ikadekmahagangga github stats](https://github-readme-stats.vercel.app/api?username=ikadekmahagangga&show_icons=true&theme=moon)](https://github.com/ikadekmahagangga)
 [![Count](https://komarev.com/ghpvc/?username=ikadekmahagangga&style=flat-square&color=red)](https://github.com/ikadekmahagangga)
 
+![uwp1687054](https://user-images.githubusercontent.com/102144626/168017454-5bb08d95-e906-49b0-b658-56e78a42910e.gif)
 
 # social media :
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ikadekmahaganggaE)
