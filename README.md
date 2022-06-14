@@ -34,3 +34,5 @@
 <a href="https://freecodecamp.org/certification/fcc628b3a5d-b605-452a-9e71-b5a586482109/scientific-computing-with-python-v7" title="certificate" target="_blank"> <img src="https://img.icons8.com/color/48/000000/certificate.png"/> </a>
 
 ![download](https://user-images.githubusercontent.com/102144626/168017857-8cc5dd7b-f2b5-4b88-b38e-322b4b3f1e5d.gif)
+
+<h5 align="center">©️mahagangga 2021</h5>
